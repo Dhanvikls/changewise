@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+changewise.db
+.env
+.streamlit/secrets.toml
